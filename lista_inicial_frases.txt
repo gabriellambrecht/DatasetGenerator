@@ -1,0 +1,26 @@
+O funcionário [negacao] possui [quantificador_feminino] [competencia_feminina]
+O empregado [negacao] possui [quantificador_masculino] [competencia_masculina]
+O funcionário [negacao] é [necessidade] para [organizacao]
+Um dos destaques do empregado é sua [competencia_feminina]
+Os colegas apontam que a principal qualidade do empregado é seu [competencia_masculina]
+O desempenho do empregado é [avaliacao_masculina]
+Alcançou níveis [avaliacao_masculina_plural] de desempenho e performance
+É [quantificador_masculino] respeitado pelos colaboradores por compartilhar preocupações, problemas e oportunidades
+[negacao] incentiva a colaboração com a equipe
+[negacao] compartilha ideias e técnicas
+[negacao] constrói bons relacionamentos
+[negacao] demonstra espírito harmonioso e cooperativo
+[negacao] gosta de compartilhar sua experiência
+[negacao] busca soluções inovadoras
+[negacao] fomenta a curiosidade por soluções inovadoras
+[negacao] promove a inovação através [exemplo]
+[negacao] estabelece relações de trabalho efetivas
+[negacao] busca sinergia
+[negacao] promove a cultura empresarial entre seus colegas de trabalho
+[negacao] promove a cultura de aprendizado
+[negacao] responde rapidamente a novas instruções, situações, métodos e procedimentos
+Finalizou [quantificador_masculino_plural] projetos
+Finalizou projetos com resultados [avaliacao_masculina_plural]
+[negacao] cumpre todos os prazos
+[negacao] respeita o tempo dos outros
+[negacao] utiliza o tempo de forma eficaz
